@@ -24,8 +24,6 @@
 
 🤔 I'm looking for help with: Improving my skills in data analysis and machine learning.
 
-💬 Ask me about: Web development, mobile development, and SaaS, as well as best practices in programming.
-
-📫 How to contact me: You can reach out to me directly here on GitHub or via email at robertlacerda95@hotmail.com.
+💬 Ask me about: Data Visualization, Web development, mobile app development, and SaaS, as well as best practices in programming.
 
 😄 Pronouns: He/him.
