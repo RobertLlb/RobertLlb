@@ -6,14 +6,12 @@
 
 ##
 
-🔭 I'm currently working on: Developing SaaS systems to simplify clients' lives and make their businesses more efficient.
+🔭 Currently working on: Building SaaS solutions that streamline business operations and enhance efficiency for clients.
 
-🌱 I'm currently learning: Always in pursuit of learning new technologies and enhancing my skills in web and mobile development.
+🌱 Continuous learning: Passionate about exploring new technologies and improving my expertise in web and mobile development.
 
-👯 I'm looking to collaborate on: Innovative projects involving modern technologies and interesting challenges.
+👯 Open to collaboration on: Innovative projects leveraging modern technologies, solving complex challenges, and pushing the boundaries of software development.
 
-🤔 I'm looking for help with: Improving my skills in data analysis and machine learning.
+🤔 Seeking help with: Advancing my knowledge in data analysis and machine learning, applying insights to create smarter applications.
 
-💬 Ask me about: Data Visualization, Web development, mobile app development, and SaaS, as well as best practices in programming.
-
-😄 Pronouns: He/him.
+💬 Ask me about: Web development (React.js, Node.js, TypeScript, Python), SaaS, API integrations, cloud computing (AWS), and best coding practices.
