@@ -6,7 +6,7 @@ I’m a **Mechanical Engineer**, **Data Scientist**, and **Project Manager** wit
 
 ### 📊 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobertLlb&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertLlb"/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertLlb&layout=compact&langs_count=8)
 
 ---
